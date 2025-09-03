@@ -97,5 +97,5 @@ array (
 ## Summary
 Business Owners can now use the app to connect with their customers, where users can easily find their businesses by assigned IDs or business name. This Bot which was Created on 4th April, 2024, deployed on 22nd April, 2024 is yet to receive the adequate push for more businesses to enlist on it. I am hopeful that more users will find it helpful.
 
-You may interact with the bot on ![t.me/BizPlugBot](https://t.me/BizPlugBot)
+You may interact with the bot on [t.me/BizPlugBot](https://t.me/BizPlugBot)
 
